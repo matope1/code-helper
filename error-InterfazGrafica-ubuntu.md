@@ -1,8 +1,8 @@
 # Error intefaz grafica Ubuntu Desktop
-Si has tenido un problema con la interfaz grafica, y se a desconfigurado o quedado corrupto en ubuntu, no hace falta formatear, se puede recuperar todo sin problema con estos comandos:
+Reinstalar Interfaz Grafica Ubuntu.
 
 
-Acceda con su usuario:
+Acceda con su usuario, y a continuacion:
 
 ```
 sudo su
